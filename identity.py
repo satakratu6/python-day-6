@@ -16,9 +16,9 @@ print(a!=b) # it returns false as a is equals to b
 # Membership operators
 
 # These operartors are used to test if a sequnece is present or not in an object
-a=[10,20,30,40]
-print(20 in a)
-print(20 not in a)
+a=[50,60,70,80]
+print(50 in a)
+print(10 not in a)
 # Bit wise operators
 # They are used to compare Binary Numbers
 # & -> ANd <- If both bits are 1, it sets each bits to 1
